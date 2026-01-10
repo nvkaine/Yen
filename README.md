@@ -13,5 +13,3 @@ __Olá__ **Em negrito**
   1. Três
 * Um denovo
  * Dois 
- -[]4u
- -[x]roses 
